@@ -1,0 +1,6 @@
+framework module ZKTabBarController {
+  umbrella header "ZKTabBarController-umbrella.h"
+
+  export *
+  module * { export * }
+}

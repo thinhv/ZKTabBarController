@@ -1,0 +1,22 @@
+{
+  "name": "ZKTabBarController",
+  "version": "0.1.0",
+  "summary": "A short description of ZKTabBarController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ducthinh2410/ZKTabBarController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ducthinh2410": "ducthinh2410@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ducthinh2410/ZKTabBarController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZKTabBarController/Classes/**/*"
+}
